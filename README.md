@@ -14,7 +14,7 @@ This analysis was done as part of the ```Statistical Learning``` course held at 
 
 The analysis is presented in ```AnalysisReport.pdf``` in the ```Problem 2``` section and the code for analysis in ```problem2.R```.  The code is in R; hence, R and optional tools like RStudio are required to run the code. In addition, the images used in the report are present separately for easy access to the information.
 
-Note: ```Problem 1``` in the report answers problems related to concepts of collinearity problem in linear regression and derivation of QDA decision rule from Bayes' rule. ```prblem1.R``` contains the code for this problem. These can be ignored.
+Note: ```Problem 1``` in the report answers problems related to concepts of collinearity problem in linear regression and derivation of QDA decision rule from Bayes' rule. ```problem1.R``` contains the code for this problem. These can be ignored.
 
 However, this repository does not provide the data used for analysis.
 
